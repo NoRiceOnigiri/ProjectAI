@@ -145,7 +145,7 @@ df_processed[numerical_features] = scaler.fit_transform(df_processed[numerical_f
 ### Сравнение моделей
 
 | Model | Accuracy | Weighted F1 | MAE | RMSE |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | Logistic Regression | 0.5176 | 0.5032 | 0.5467 | 0.8218 |
 | Random Forest | 0.5207 | 0.5210 | 0.5266 | 0.7881 |
 | LightGBM | 0.5277 | 0.5289 | 0.5112 | 0.7674 |

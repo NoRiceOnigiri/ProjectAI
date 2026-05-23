@@ -97,7 +97,7 @@ grid_search_lr.fit(X_train_balanced, y_train_balanced)
 Burnout_Risk_Level - категориальная переменная, поэтому для удобства необходимо перевести его в числовые значения:
 Low -> 0
 Medium -> 1
-Hught -> 2 
+High -> 2 
 
 ### Feature engineering
 
